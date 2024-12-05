@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome all no matter who you are 👋
 
-<!--
-**Eurekaimer/Eurekaimer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m Eurekaimer currently studying on university. 
+- 🌱 I’m currently learning Mathematical in Analytical Field.
+- 🤔 I’m looking for one people could learn math with me.
+- 😄 You can know more about me through searching my page https://eurekaimer.github.io/
+- ⚡ If you like my notes or project, give me a ⭐ please.
+
+- Thank you!
+
