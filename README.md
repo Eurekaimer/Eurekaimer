@@ -22,7 +22,16 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Eurekaimer/count.s
 
 I like coding when I'm tired after learning math and also eager to learn some interesting lectures in [CSDIY](https://csdiy.wiki/)
 
-![Eurekaimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eurekaimer&theme=blue)
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eurekaimer&layout=compact)](https://github.com/Eurekaimer/github-readme-stats)
+
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Eurekaimer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="700">
+
+[![Eurekaimer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eurekaimer&theme=xcode)](https://github.com/iceyear)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eurekaimer)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
