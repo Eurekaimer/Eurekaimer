@@ -13,7 +13,7 @@
 
 ## My road
 
-**Programming Language**:My main language is **Python**. 
+**Programming Language**:  My main language is **Python**. 
 
 I like coding when I'm tired after learning math and also eager to learn some interesting lectures in [CSDIY](https://csdiy.wiki/)
 
