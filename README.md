@@ -11,3 +11,12 @@
 
 - Thank you!
 
+## My Preference
+
+**Programming Language**:My main language is Python🐍. 
+
+I like coding when I'm tired after learning math and also eager to learn some interesting lectures in [CSDIY](https://csdiy.wiki/)
+
+![Eurekaimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eurekaimer&theme=blue)
+
+![Eurekaimer's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eurekaimer&theme=blue)
