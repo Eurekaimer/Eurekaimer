@@ -1,6 +1,6 @@
 ## Welcome all no matter who you are 👋
 
-
+You are my ![Visitor Count](https://profile-counter.glitch.me/Eurekaimer/count.svg) guest.
 
 
 - 🔭 I’m Eurekaimer currently studying on university. 
@@ -19,6 +19,5 @@ I like coding when I'm tired after learning math and also eager to learn some in
 
 ![Eurekaimer's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eurekaimer&theme=blue)
 
-![Eurekaimer's languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eurekaimer&theme=blue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eurekaimer&layout=compact)](https://github.com/Eurekaimer/github-readme-stats)
 
