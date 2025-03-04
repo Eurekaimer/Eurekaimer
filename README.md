@@ -13,6 +13,11 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/Eurekaimer/count.s
 
 ## My road
 
+![Static Badge](https://img.shields.io/badge/Language-Python-green) ![Static Badge](https://img.shields.io/badge/Favorite-Math-blue) ![Static Badge](https://img.shields.io/badge/Anime-こまりちか-blue) 
+
+
+
+
 **Programming Language**:  My main language is **Python** and also interested in HTML + CSS + Javascript(So beautiful!). 
 
 I like coding when I'm tired after learning math and also eager to learn some interesting lectures in [CSDIY](https://csdiy.wiki/)
