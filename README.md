@@ -46,8 +46,6 @@
 
 
 
-## Welcome all no matter who you are 👋
-
 You are my ![Visitor Count](https://profile-counter.glitch.me/Eurekaimer/count.svg) guest.
 
 
