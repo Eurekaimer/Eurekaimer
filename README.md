@@ -69,7 +69,7 @@ I like coding when I'm tired after learning math and also eager to learn some in
 
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Eurekaimer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="700">
 
-[![Eurekaimer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eurekaimer&theme=xcode)](https://github.com/iceyear)
+[![Eurekaimer's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Eurekaimer&theme=xcode)](https://github.com/Eurekaimer)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Eurekaimer)](https://github.com/ryo-ma/github-profile-trophy)
 
