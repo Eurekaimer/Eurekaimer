@@ -41,7 +41,7 @@ I like coding when I'm tired after learning math and also eager to learn some in
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eurekaimer&layout=compact)](https://github.com/Eurekaimer/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eurekaimer&layout=compact&hide=html)](https://github.com/Eurekaimer/github-readme-stats)
 
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Eurekaimer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="700">
 
