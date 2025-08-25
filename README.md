@@ -27,9 +27,10 @@
 
 
 
-## My road
+## About Me
 
-![Static Badge](https://img.shields.io/badge/Language-Python-green) ![Static Badge](https://img.shields.io/badge/Favorite-Math-blue) ![Static Badge](https://img.shields.io/badge/Anime-こまりちか-blue) 
+![Static Badge](https://img.shields.io/badge/Language-Python-green) ![Static Badge](https://img.shields.io/badge/Favorite-Math-blue) ![Static Badge](https://img.shields.io/badge/Anime-こまりちか-red) ![Static Badge](https://img.shields.io/badge/Interest-High_dimensional_Probability_and_Statistics-purple?style=flat-square)
+
 
 
 
@@ -46,6 +47,6 @@ I like coding when I'm tired after learning math and also eager to learn some in
 <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Eurekaimer&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="700">
 
 
-
+<span style="color: #FF0000; font-size: 1.5em;">If you are also interested in probility theory and statistics, we are friends still !!</span>
 
 
