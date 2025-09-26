@@ -49,8 +49,3 @@ I like coding when I'm tired after learning math and also eager to learn some in
 
 <span style="color: #FF0000; font-size: 1.5em;">If you are also interested in probility theory and statistics, we are friends still !!</span>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
