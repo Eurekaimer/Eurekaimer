@@ -2,8 +2,8 @@
 
   <!-- Knock Code Pictures -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Eurekaimer/MyIMGs@main/img/profile.jpg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Eurekaimer/MyIMGs@main/img/profile.jpg" height="225px" />
     <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
   </picture>
 
@@ -49,3 +49,8 @@ I like coding when I'm tired after learning math and also eager to learn some in
 
 <span style="color: #FF0000; font-size: 1.5em;">If you are also interested in probility theory and statistics, we are friends still !!</span>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eurekaimer/Eurekaimer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eurekaimer/Eurekaimer/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eurekaimer/Eurekaimer/output/github-contribution-grid-snake.svg">
+</picture>
