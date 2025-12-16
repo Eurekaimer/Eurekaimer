@@ -27,9 +27,11 @@
 
 
 
-**Programming Language**:  My main language is **Python** and also interested in HTML + CSS + Javascript(So beautiful!). 
+**Programming Language**:  My main language is **Python** and also interested in HTML + CSS + Javascript
 
-I like coding when I'm tired after learning math and also eager to learn any interesting!!!
+I like to see the process that a program written by me become a beautiful painting! 
+
+I also like coding when I'm tired after learning math/statistics and also eager to learn any more interesting!!!
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eurekaimer&layout=compact&hide=html" alt="Top Langs" width="700" style="aspect-ratio:auto;"><img src="https://github-readme-stats.vercel.app/api?username=Eurekaimer&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" width="700" style="aspect-ratio:auto;">
