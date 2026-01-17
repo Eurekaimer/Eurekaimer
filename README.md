@@ -17,7 +17,8 @@
 
 
 <!-- Welcome words -->
-<h1 style="color: #8c495a;">Welcome to Eurekaimer's GitHub ! 🍀</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Buda&weight=500&size=25&pause=1000&color=F760C4&center=true&width=435&lines=Welcome+to+Eurekaimer's+GitHub!)](https://git.io/typing-svg)
 
 
 
