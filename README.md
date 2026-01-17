@@ -49,6 +49,6 @@ I also like coding when I'm tired after learning math/statistics and also eager 
 ## Some Social Links
 
 <div align="center">
-  <img src="https://stats.justsong.cn/api/zhihu?username=damocles-58" width="49%" />
-  <img src="https://stats.justsong.cn/api/leetcode?username=Eurekaimer&cn=true" width="49%" />
+  <a href="https://space.bilibili.com/702046230" target="_blank"><img src="https://img.shields.io/badge/bilibili-Eurekaimer-FB7299?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" /></a>&nbsp;&nbsp;<a href="https://leetcode.cn/u/Eurekaimer/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Eurekaimer-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>&nbsp;&nbsp;<a href="https://www.zhihu.com/people/damocles-58" target="_blank"><img src="https://img.shields.io/badge/知乎-damocles--58-0084FF?style=for-the-badge&logo=zhihu&logoColor=white" alt="Zhihu" /></a>
 </div>
+
