@@ -48,6 +48,7 @@ I also like coding when I'm tired after learning math/statistics and also eager 
 
 ## Some Social Links
 
-![知乎数据](https://stats.justsong.cn/api/zhihu?username=damocles-58)
-
-![力扣数据](https://stats.justsong.cn/api/leetcode?username=Eurekaimer&cn=true)
+<div align="center">
+  <img src="https://stats.justsong.cn/api/zhihu?username=damocles-58" width="49%" />
+  <img src="https://stats.justsong.cn/api/leetcode?username=Eurekaimer&cn=true" width="49%" />
+</div>
