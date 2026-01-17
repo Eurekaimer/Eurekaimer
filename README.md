@@ -45,3 +45,9 @@ I also like coding when I'm tired after learning math/statistics and also eager 
 </picture>
 
 ![Rainbow-profile-3d](./profile-3d-contrib/profile-night-rainbow.svg)
+
+## Some Social Links
+
+![知乎数据](https://stats.justsong.cn/api/zhihu?username=damocles-58)
+
+![力扣数据](https://stats.justsong.cn/api/leetcode?username=Eurekaimer&cn=true)
