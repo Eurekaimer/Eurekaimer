@@ -35,8 +35,6 @@ I like to see the process that a program written by me become a beautiful painti
 I also like coding when I'm tired after learning math/statistics and also eager to learn any more interesting!!!
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eurekaimer&layout=compact&hide=html" alt="Top Langs" width="700" style="aspect-ratio:auto;"><img src="https://github-readme-stats.vercel.app/api?username=Eurekaimer&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" width="700" style="aspect-ratio:auto;">
-
 
 <span style="color: #FF0000; font-size: 1.5em;">If you are also interested in probility theory and statistics, we are friends still !!</span>
 
@@ -45,3 +43,5 @@ I also like coding when I'm tired after learning math/statistics and also eager 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eurekaimer/Eurekaimer/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Eurekaimer/Eurekaimer/output/github-contribution-grid-snake.svg">
 </picture>
+
+![Rainbow-profile-3d](./profile-3d-contrib/profile-night-rainbow.svg)
