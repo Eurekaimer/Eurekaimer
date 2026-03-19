@@ -24,7 +24,7 @@
 
 ## About Me
 
-![Static Badge](https://img.shields.io/badge/Language-Python-green) ![Static Badge](https://img.shields.io/badge/Favorite-Math-blue) ![Static Badge](https://img.shields.io/badge/Anime-こまりちか-red) ![Static Badge](https://img.shields.io/badge/Interest-High_dimensional_Probability_and_Statistics-purple?style=flat-square)
+![Static Badge](https://img.shields.io/badge/Language-Python-green) ![Static Badge](https://img.shields.io/badge/Favorite-Math-blue) ![Static Badge](https://img.shields.io/badge/Anime-こまりちか-red) ![Static Badge](https://img.shields.io/badge/Interest-Yuri-purple?style=flat-square)
 
 
 
