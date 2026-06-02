@@ -15,6 +15,7 @@ import xml.etree.ElementTree as ET
 
 SVG_NS = "http://www.w3.org/2000/svg"
 GRAPHQL_URL = "https://api.github.com/graphql"
+EXCLUDED_LANGUAGES = {"CSS", "Markdown"}
 FALLBACK_COLORS = (
     "#0969da",
     "#8250df",
@@ -44,6 +45,14 @@ def add(parent: ET.Element, name: str, **attributes: object) -> ET.Element:
 def fallback_color(language: str) -> str:
     digest = hashlib.sha256(language.encode("utf-8")).digest()
     return FALLBACK_COLORS[digest[0] % len(FALLBACK_COLORS)]
+
+
+def filter_languages(languages: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    return [
+        language
+        for language in languages
+        if language["language"] not in EXCLUDED_LANGUAGES
+    ]
 
 
 def fetch_languages(token: str, username: str) -> list[dict[str, Any]]:
@@ -261,6 +270,7 @@ def main() -> None:
             raise RuntimeError("GITHUB_TOKEN and USERNAME are required")
         languages = fetch_languages(token, username)
 
+    languages = filter_languages(languages)
     svg_paths = sorted(args.profile_dir.glob("*.svg"))
     if not svg_paths:
         raise RuntimeError(f"No SVG files found under {args.profile_dir}")

@@ -52,6 +52,17 @@ class ExpandLanguagePieTest(unittest.TestCase):
         self.assertEqual(path.count("A117,117"), 2)
         self.assertEqual(path.count("A65,65"), 2)
 
+    def test_filter_languages_excludes_blog_languages(self) -> None:
+        languages = [
+            {"language": "CSS", "color": "#663399", "contributions": 100},
+            {"language": "Markdown", "color": "#083fa1", "contributions": 30},
+            {"language": "Python", "color": "#3572A5", "contributions": 8},
+        ]
+        self.assertEqual(
+            SCRIPT.filter_languages(languages),
+            [{"language": "Python", "color": "#3572A5", "contributions": 8}],
+        )
+
 
 if __name__ == "__main__":
     unittest.main()
