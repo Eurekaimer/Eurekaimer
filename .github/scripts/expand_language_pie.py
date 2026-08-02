@@ -15,7 +15,7 @@ import xml.etree.ElementTree as ET
 
 SVG_NS = "http://www.w3.org/2000/svg"
 GRAPHQL_URL = "https://api.github.com/graphql"
-EXCLUDED_LANGUAGES = {"CSS", "Markdown"}
+EXCLUDED_LANGUAGES = {"Astro", "CSS", "Markdown"}
 FALLBACK_COLORS = (
     "#0969da",
     "#8250df",

@@ -54,6 +54,7 @@ class ExpandLanguagePieTest(unittest.TestCase):
 
     def test_filter_languages_excludes_blog_languages(self) -> None:
         languages = [
+            {"language": "Astro", "color": "#ff5a03", "contributions": 120},
             {"language": "CSS", "color": "#663399", "contributions": 100},
             {"language": "Markdown", "color": "#083fa1", "contributions": 30},
             {"language": "Python", "color": "#3572A5", "contributions": 8},
