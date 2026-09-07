@@ -28,14 +28,12 @@ FALLBACK_COLORS = (
 )
 
 # Eurekaimer/CS61B is a private course repo, so it never appears in the public
-# contribution feed. Seed its GitHub Linguist byte counts (snapshot 2026-09-07)
-# so the unfinished repo still shows in the pie chart. Update these values with
-# the repo's final Linguist breakdown once CS61B is finished.
+# contribution feed. Seed its GitHub Linguist byte counts so the unfinished
+# repo still shows in the pie chart. Scope: only Java files Eurekaimer
+# committed to (excludes lectureCode-sp26, the library-sp21 submodule, and
+# untouched course skeleton). Snapshot 2026-09-07 — update when CS61B grows.
 CS61B_LANGUAGE_SEED = [
-    {"language": "Java", "color": "#b07219", "contributions": 428418},
-    {"language": "Python", "color": "#3572A5", "contributions": 89290},
-    {"language": "Makefile", "color": "#427819", "contributions": 8494},
-    {"language": "BitBake", "color": "#00bce4", "contributions": 1270},
+    {"language": "Java", "color": "#b07219", "contributions": 37533},
 ]
 
 ET.register_namespace("", SVG_NS)
