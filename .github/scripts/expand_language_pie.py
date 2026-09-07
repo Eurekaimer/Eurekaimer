@@ -27,6 +27,17 @@ FALLBACK_COLORS = (
     "#116329",
 )
 
+# Eurekaimer/CS61B is a private course repo, so it never appears in the public
+# contribution feed. Seed its GitHub Linguist byte counts (snapshot 2026-09-07)
+# so the unfinished repo still shows in the pie chart. Update these values with
+# the repo's final Linguist breakdown once CS61B is finished.
+CS61B_LANGUAGE_SEED = [
+    {"language": "Java", "color": "#b07219", "contributions": 428418},
+    {"language": "Python", "color": "#3572A5", "contributions": 89290},
+    {"language": "Makefile", "color": "#427819", "contributions": 8494},
+    {"language": "BitBake", "color": "#00bce4", "contributions": 1270},
+]
+
 ET.register_namespace("", SVG_NS)
 
 
@@ -93,7 +104,9 @@ def fetch_languages(token: str, username: str) -> list[dict[str, Any]]:
     repositories = payload["data"]["user"]["contributionsCollection"][
         "commitContributionsByRepository"
     ]
-    contributions_by_language: dict[str, dict[str, Any]] = {}
+    contributions_by_language: dict[str, dict[str, Any]] = {
+        entry["language"]: dict(entry) for entry in CS61B_LANGUAGE_SEED
+    }
     for repository in repositories:
         primary_language = repository["repository"]["primaryLanguage"]
         if not primary_language:
