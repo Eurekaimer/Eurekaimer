@@ -6,7 +6,7 @@ Lifelong learning &middot; quiet exploration &middot; building things with care
 
 <br>
 
-<img src="https://cdn.jsdelivr.net/gh/Eurekaimer/TOUKO-WEBP-01@main/objects/default/sha256/15/b5/15b5c5d89f7f9d7c90d4c8125879921530cc68f53bc7d982b8ce396afb599493.webp" alt="Komari Chika profile image" width="220">
+<img src="https://cdn.jsdelivr.net/gh/Eurekaimer/TOUKO-WEBP-01@main/objects/default/028dc857-1312-4b77-b9da-f2da6d9d7feb.webp" alt="Komari Chika profile image" width="220">
 
 <p><sub>最推しキャラクター: 小鞠知花（『負けヒロインが多すぎる！』）</sub></p>
 
