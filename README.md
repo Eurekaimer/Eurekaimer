@@ -18,6 +18,8 @@ The stack follows the same rule — nothing loud, nothing wasted.
 
 Outside the terminal: yuri, slice of life, and slow stories about two people (for me, always two girls) paying attention to each other — **_Hyouka_**, **_Bloom Into You_**, **_Liz and the Blue Bird_**, and anything **Naoko Yamada** directs.
 
+If any of this is your kind of thing, I keep the books I love on a self-hosted **[OpenList](http://103.236.91.136:9443/)** — feel free to browse. For more yuri, my **[Bangumi](https://bangumi.tv/user/eurekaimer)** profile carries the longer list.
+
 ## My toolbox
 
 | Category | Badges |
