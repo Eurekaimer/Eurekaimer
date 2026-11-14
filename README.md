@@ -1,19 +1,12 @@
 <div align="center">
 
-<table>
-  <tr>
-    <td width="240" valign="middle" align="center">
-      <img src="https://cdn.jsdelivr.net/gh/Eurekaimer/TOUKO-WEBP-01@main/objects/default/028dc857-1312-4b77-b9da-f2da6d9d7feb.webp" alt="Komari Chika illustration" width="220">
-    </td>
-    <td valign="middle" align="left">
-      <b>Eurekaimer</b><br>
-      <sub>Python &middot; Go &middot; C &nbsp;|&nbsp; CachyOS &middot; niri &middot; Zed</sub><br><br>
-      <sub>最推しキャラクター: <b>小鞠知花</b>（『負けヒロインが多すぎる！』）</sub>
-    </td>
-  </tr>
-</table>
+<img src="https://cdn.jsdelivr.net/gh/Eurekaimer/TOUKO-WEBP-01@main/objects/default/028dc857-1312-4b77-b9da-f2da6d9d7feb.webp" alt="小鞠知花" width="300">
 
-<p><em>lifelong learning &middot; quiet exploration &middot; building things with care</em></p>
+<h3>小鞠知花</h3>
+
+<sub>『負けヒロインが多すぎる！』</sub>
+
+<em>静かな声ほど、長く残る。</em>
 
 </div>
 
