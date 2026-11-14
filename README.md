@@ -1,22 +1,8 @@
 <div align="center">
-<samp>#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp><br>
-<samp>#&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;####&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;##&nbsp;&nbsp;&nbsp;#####&nbsp;&nbsp;#</samp><br>
-<samp>#&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;##&nbsp;&nbsp;##&nbsp;&nbsp;#&nbsp;&nbsp;#&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#</samp><br>
-<samp>###&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;##&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#</samp><br>
-<samp>#&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;######&nbsp;#####&nbsp;&nbsp;#</samp><br>
-<samp>#&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;#</samp><br>
-<samp>#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;####&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#</samp><br>
-<br>
-<samp>&nbsp;&nbsp;&nbsp;&nbsp;#####&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp><br>
-<samp>&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;##&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</samp><br>
-<samp>&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;</samp><br>
-<samp>&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;######&nbsp;#&nbsp;####&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;</samp><br>
-<samp>&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;#&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;######&nbsp;&nbsp;&nbsp;</samp><br>
-<samp>&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;</samp><br>
-<samp>&nbsp;&nbsp;&nbsp;&nbsp;#####&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;#&nbsp;&nbsp;&nbsp;&nbsp;#&nbsp;&nbsp;&nbsp;</samp><br>
-<br>
-<sub>『負けヒロインが多すぎる！』</sub><br>
-<br>
+<img src="./assets/komari-card.svg" alt="Komari Chika">
+<br><br>
+<sub>『負けヒロインが多すぎる！』</sub>
+<br><br>
 <em>静かな声ほど、長く残る。</em>
 </div>
 
