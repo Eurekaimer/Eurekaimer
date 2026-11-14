@@ -8,15 +8,15 @@
 
 ## About me
 
-Most of my time goes to probability theory, distributed systems, and small computational experiments that turn abstract ideas into something testable.
+Most of my time goes to probability theory, distributed systems, operating systems, and small computational experiments that turn abstract ideas into something testable.
 
-Python is where I get most things done, Go is my favorite language, and C is the curiosity I keep returning to. I like reproducible environments, quiet tooling, and systems small enough to read end to end.
+Python is where I get most things done, Go is now my favorite language, and C/C++ is the curiosity I keep returning to. I like reproducible environments, quiet tooling, and systems small enough to read end to end.
 
 My one rule of life is $\color{#6F7FA3}{\text{energy conservation}}$:
 **never do what doesn't need doing; and what must be done, do it fast.**
 The stack follows the same rule — nothing loud, nothing wasted.
 
-Outside the terminal: yuri, slice of life, and slow stories about two people paying attention to each other — **_Hyouka_**, **_Bloom Into You_**, **_Liz and the Blue Bird_**, and anything **Naoko Yamada** directs.
+Outside the terminal: yuri, slice of life, and slow stories about two people (for me, always two girls) paying attention to each other — **_Hyouka_**, **_Bloom Into You_**, **_Liz and the Blue Bird_**, and anything **Naoko Yamada** directs.
 
 ## My toolbox
 
